@@ -32,3 +32,7 @@ When trained on the XOR problem, the model achieved:
 
 ## Detailed Guide
 For a comprehensive walkthrough of the mathematics and logic behind this project, please refer to the [Detailed Guide Hebrew (PDF)](./Detailed%20Guide%20Hebrew.pdf).
+
+<p align="center">
+  <img src="./docs/guide_computer.png" alt="guide computer" width="700">
+</p>
