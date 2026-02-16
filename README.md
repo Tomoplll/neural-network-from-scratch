@@ -1,12 +1,7 @@
 # Neural Network from Scratch - XOR Problem Implementation
 
-## Project Purpose & Motivation
-This project was driven by curiosity to understand how neural networks operate "under the hood" and serves as a deep-dive into the architectural and mathematical foundations of Deep Learning. The goal was to deconstruct the deep learning black box by implementing a Multi-Layer Perceptron (MLP) using only Python and NumPy, without relying on high-level libraries.
-
-## Executive Summary
-
-### Project Overview
-This project presents a full implementation of a **Multi-Layer Perceptron (MLP)** built entirely from scratch using **Python** and **NumPy**. 
+## Project Purpose & Overview
+This project was driven by a curiosity to understand how neural networks operate “behind the scenes,” and it offers a deep dive into the structural and mathematical foundations of deep learning. The goal was to explore the implementation of neural networks by building a fully functional multi-layer neural network from scratch using only **Python** and **NumPy**, without relying on external deep learning libraries such as PyTorch. The purpose of the project was to gain a deep understanding of the mathematics behind machine learning while applying advanced software engineering principles.
 
 ### Technical Highlights
 * **Modular OOP Architecture**: The system is designed with a clear separation between layers, activation functions, and network management, allowing for easy extensibility.
