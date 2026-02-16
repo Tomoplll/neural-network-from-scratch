@@ -1,7 +1,7 @@
 # Neural Network from Scratch - XOR Problem Implementation
 
 ## Project Purpose & Overview
-This project was driven by a curiosity to understand how neural networks operate “behind the scenes,” and it offers a deep dive into the structural and mathematical foundations of deep learning. The goal was to explore the implementation of neural networks by building a fully functional multi-layer neural network from scratch using only **Python** and **NumPy**, without relying on external deep learning libraries such as PyTorch. The purpose of the project was to gain a deep understanding of the mathematics behind machine learning while applying advanced software engineering principles.
+This project was driven by a curiosity to understand how neural networks operate “behind the scenes,” and it offers a deep dive into the structural and mathematical foundations of deep learning. The goal was to explore the implementation of neural networks by building a fully functional multi-layer neural network from scratch using only **Python** and **NumPy**, without relying on external deep learning libraries such as PyTorch. 
 
 ### Technical Highlights
 * **Modular OOP Architecture**: The system is designed with a clear separation between layers, activation functions, and network management, allowing for easy extensibility.
