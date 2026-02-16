@@ -16,8 +16,6 @@ When trained on the XOR problem, the model achieved:
 * **Confidence Level**: 99.2%
 * **Final Training Loss (MSE)**: 0.0002
 
-### Visualization
-
 <img src="./docs/decision_surface.png" alt="Decision Surface" width="500">
 
 *Figure: The learned decision surface showing the non-linear separation for the XOR gates.*
